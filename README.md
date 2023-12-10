@@ -1,8 +1,9 @@
 # sql-challenge
 ## EmployeeSQL
 ### table-schemata.sql
-will build tables for title , salaries, employees, department employees (dept_emp), department manager (depart_manager) and departments as per below interactions:
-![image](https://github.com/pmadata/sql-challenge/assets/143486132/64b09ab9-c762-43c9-8460-84340cfa6d9d)
+will build tables for title, salaries, employees, department employees (dept_emp), department manager (depart_manager) and departments as per below interactions:
+![image](https://github.com/pmadata/sql-challenge/assets/143486132/0cec9b35-80d5-4622-aa41-af2da5929767)
+
 ### queries
 will provide codes for the following queries:
 -List the employee number, last name, first name, sex, and salary of each employee.
