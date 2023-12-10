@@ -1,8 +1,8 @@
 # sql-challenge
 ## EmployeeSQL
 ### table-schemata.sql
-will build tables for title, salaries, employees, department employees (dept_emp), department manager (depart_manager) and departments as per below interactions:
-
+will build tables for title, salaries, employees, department employees (dept_emp), department manager (depart_manager) and departments as per the below interactions:
+EmployeeSQL/SQLCHALLANGE-qdb.png
 
 ### queries
 will provide codes for the following queries:
