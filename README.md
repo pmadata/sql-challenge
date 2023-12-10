@@ -2,8 +2,7 @@
 ## EmployeeSQL
 ### table-schemata.sql
 will build tables for title, salaries, employees, department employees (dept_emp), department manager (depart_manager) and departments as per the below interactions:
-EmployeeSQL/SQLCHALLANGE-qdb.png
-
+https://github.com/pmadata/sql-challenge/blob/ae4c4d0e351e0e2e59149b781689a3beb7b9e91d/EmployeeSQL/SQLCHALLANGE-qdb.png
 ### queries
 will provide codes for the following queries:
 -List the employee number, last name, first name, sex, and salary of each employee.
